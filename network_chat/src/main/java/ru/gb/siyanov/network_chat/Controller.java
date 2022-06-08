@@ -11,14 +11,18 @@ public class Controller {
     private TextArea historyArea;
     @FXML
     private TextField userBoard;
-
+    // Метод  считывания текста, введенного юзером
     public void clickCheckButton(ActionEvent actionEvent) {
         final String userText = userBoard.getText();
         if(userText.isBlank()){
             return;
         }
+        // отсылает текс написаный юзером в центральное поле
+        // с переносом строки
         historyArea.appendText(userText + "\n");
+       // очищает панель ввода текста юзера
         userBoard.clear();
+        // возвращает фокус на панель ввода юзера
         userBoard.requestFocus();
 
 
