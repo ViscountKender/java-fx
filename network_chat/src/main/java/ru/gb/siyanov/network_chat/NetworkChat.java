@@ -11,7 +11,7 @@ public class NetworkChat extends Application {
     @Override
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(NetworkChat.class.getResource("hello-view.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 320, 240);
+        Scene scene = new Scene(fxmlLoader.load(), 520, 440);
         stage.setTitle("NetworkChat!");
         stage.setScene(scene);
         stage.show();
