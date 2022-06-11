@@ -4,19 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73c6f66a-5586-414d-b9c4-9bab0d92fd0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/network_chat/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_chat/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_chat/src/main/java/ru/gb/siyanov/network_chat/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_chat/src/main/java/ru/gb/siyanov/network_chat/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/network_chat/src/main/resources/ru/gb/siyanov/network_chat/hello-view.fxml" afterDir="false" />
+    <list default="true" id="73c6f66a-5586-414d-b9c4-9bab0d92fd0c" name="Changes" comment="ready">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2AGDp2W9aQRSMBBwnj2qUYLaWNb" />
@@ -35,7 +43,7 @@
     <property name="jdk.selected.JAVA_MODULE" value="openjdk-18 (2)" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java2022" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NetworkChat">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.gb.siyanov.network_chat.HelloApplication" />
       <module name="network_chat" />
@@ -49,8 +57,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NetworkChat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.siyanov.network_chat.NetworkChat" />
+      <module name="network_chat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.siyanov.network_chat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NetworkChat" />
         <item itemvalue="Application.HelloApplication" />
       </list>
     </recent_temporary>
@@ -64,6 +86,28 @@
       <option name="presentableId" value="Default" />
       <updated>1654627209075</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1654628321407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654628321407</updated>
+    </task>
+    <task id="LOCAL-00002" summary="промежуточный коммит">
+      <created>1654630129543</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654630129543</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ready">
+      <created>1654722197968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654722197968</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,8 +120,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="промежуточный коммит" />
+    <MESSAGE value="ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready" />
   </component>
 </project>
