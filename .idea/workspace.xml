@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73c6f66a-5586-414d-b9c4-9bab0d92fd0c" name="Changes" comment="промежуточный коммит">
-      <change afterPath="$PROJECT_DIR$/network_chat/src/main/java/ru/gb/siyanov/network_chat/UserPanel.java" afterDir="false" />
+    <list default="true" id="73c6f66a-5586-414d-b9c4-9bab0d92fd0c" name="Changes" comment="добавил описание дз">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_chat/src/main/java/ru/gb/siyanov/network_chat/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/network_chat/src/main/java/ru/gb/siyanov/network_chat/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_chat/src/main/java/ru/gb/siyanov/network_chat/NetworkChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/network_chat/src/main/java/ru/gb/siyanov/network_chat/NetworkChat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_chat/src/main/resources/ru/gb/siyanov/network_chat/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/network_chat/src/main/resources/ru/gb/siyanov/network_chat/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network_chat/target/classes/ru/gb/siyanov/network_chat/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/network_chat/target/classes/ru/gb/siyanov/network_chat/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
